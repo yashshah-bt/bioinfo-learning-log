@@ -1,4 +1,4 @@
-# Bioinformatics Journey 🧬
+# Bioinfo Learning Log 🧬
 
 Hi, I'm Yash, a 1st-year BTech Biotechnology student.
 
@@ -6,7 +6,7 @@ Hi, I'm Yash, a 1st-year BTech Biotechnology student.
 To build a career at the intersection of Bioinformatics and AI, solving real biological problems using computational tools.
 
 ## 🚀 Current Goal
-To secure a fully funded PhD in Bioinformatics + AI (US/UK) to pursue advanced research and build a strong foundation for this vision.
+To secure  PhD in Bioinformatics + AI to pursue advanced research and build a strong foundation for this vision.
 
 ## 🗺️ 6-Month Roadmap
 - [x] October: Core Python
@@ -22,6 +22,10 @@ To secure a fully funded PhD in Bioinformatics + AI (US/UK) to pursue advanced r
 
 ## 📈 Progress Log
 - **Sep 2026**: Created GitHub & Google Colab. Wrote first Python script. Uploaded first notebook.
+- **Oct 2026**: Renamed repository to `bioinfo-learning-log`. Started structured Python course.
+
+## 🔗 Connect with me
+- LinkedIn: [Yahan apna LinkedIn link daalo]
 
 ## 🔗 Connect with me
 - LinkedIn: [www.linkedin.com/in/yashshah-bt]
