@@ -5,8 +5,6 @@ Hi, I'm Yash, a 1st-year BTech Biotechnology student.
 ## 🎯 Vision
 To build a career at the intersection of Bioinformatics and AI, solving real biological problems using computational tools.
 
-## 🚀 Current Goal
-To secure  PhD in Bioinformatics + AI to pursue advanced research and build a strong foundation for this vision.
 
 ## 🗺️ 6-Month Roadmap
 - [x] October: Core Python
